@@ -86,3 +86,68 @@ The dataset contains customer transaction details such as:
 ---
 
 ## 📁 Project Structure
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/vighnesh40/Python_Diwali_Sales_Analysis.git
+```
+
+### 2️⃣ Navigate to the Project Folder
+```bash
+cd Python_Diwali_Sales_Analysis
+```
+
+### 3️⃣ Install Required Libraries
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+### 4️⃣ Launch Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+Then open **`Diwali_Sales_Analysis.ipynb`** and run all cells.
+
+---
+
+## 📸 Sample Visualizations
+
+- 📊 Customer Distribution by Gender
+- 📊 Sales by Age Group
+- 📊 State-wise Revenue Analysis
+- 📊 Occupation-based Purchasing Trends
+- 📊 Top 10 Best-Selling Products
+
+---
+
+## 🚀 Future Improvements
+
+- [ ] Build **Machine Learning** prediction models for sales forecasting
+- [ ] Create interactive dashboards using **Power BI / Tableau**
+- [ ] Deploy analysis as a web app using **Streamlit**
+- [ ] Add **customer segmentation** using clustering algorithms
+
+---
+
+## 👨‍💻 Author
+
+**Vighnesh Nalawade**
+
+[![GitHub](https://img.shields.io/badge/GitHub-vighnesh40-181717?style=flat&logo=github)](https://github.com/vighnesh40)
+
+---
+
+## ⭐ Support the Project
+
+If you found this project helpful, please consider giving it a **⭐ star** on GitHub — it means a lot and motivates further development!
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
